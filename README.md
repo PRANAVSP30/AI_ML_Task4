@@ -1,5 +1,5 @@
-#  Task 4 — Feature Encoding & Scaling  
-### AI & ML Internship  
+#  AI & ML Internship - Task 4  
+### Feature Encoding & Scaling 
 ### By: Pranav S P
 
 ---
