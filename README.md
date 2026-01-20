@@ -30,13 +30,13 @@ AI_ML_Task4/
 │   ├── processed/
 │   │   └── adult_processed.csv
 │   └── screenshots/
-│       ├── head_output.txt
-│       ├── feature_types.txt
 │       ├── encoding_columns.txt
+│       ├── feature_types.txt
+│       ├── head_output.txt
 │       ├── numerical_after_encoding.txt
 │       ├── scaled_head_output.txt
 │       ├── scaling_report.txt
-│       └── (plot images if created)
+│       
 │
 └── reports/
     └── task4_feature_engineering.md
