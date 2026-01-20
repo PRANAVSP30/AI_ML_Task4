@@ -73,4 +73,3 @@ outputs/processed/adult_processed.csv
 The dataset has been completely transformed into a scalable, consistent, numerical format.  
 With automated encoding and scaling modules, the preprocessing pipeline is now reusable and production-ready.
 
-This completes Task 4 successfully.
