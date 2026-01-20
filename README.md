@@ -44,7 +44,7 @@ AI_ML_Task4/
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Pandas**
