@@ -1,0 +1,1 @@
+{'label_encoded': ['workclass', 'marital_status', 'relationship', 'race', 'gender', 'income'], 'onehot_encoded': ['education', 'occupation', 'native_country']}

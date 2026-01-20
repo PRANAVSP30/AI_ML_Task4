@@ -1,0 +1,50 @@
+        age  workclass    fnlwgt  educational_num  marital_status  \
+0 -0.995129   0.088484  0.351675        -1.197259        0.916138   
+1 -0.046942   0.088484 -0.945524        -0.419335       -0.410397   
+2 -0.776316  -1.277432  1.394723         0.747550       -0.410397   
+3  0.390683   0.088484 -0.277844        -0.030373       -0.410397   
+4 -1.505691  -2.643348 -0.815954        -0.030373        0.916138   
+
+   relationship      race   gender  capital_gain  capital_loss  ...  \
+0      0.971649 -1.971746  0.70422     -0.144804     -0.217127  ...   
+1     -0.900852  0.392384  0.70422     -0.144804     -0.217127  ...   
+2     -0.900852  0.392384  0.70422     -0.144804     -0.217127  ...   
+3     -0.900852 -1.971746  0.70422      0.886874     -0.217127  ...   
+4      0.971649  0.392384 -1.42001     -0.144804     -0.217127  ...   
+
+   native_country_Portugal  native_country_Puerto-Rico  \
+0                    False                       False   
+1                    False                       False   
+2                    False                       False   
+3                    False                       False   
+4                    False                       False   
+
+   native_country_Scotland  native_country_South  native_country_Taiwan  \
+0                    False                 False                  False   
+1                    False                 False                  False   
+2                    False                 False                  False   
+3                    False                 False                  False   
+4                    False                 False                  False   
+
+   native_country_Thailand  native_country_Trinadad&Tobago  \
+0                    False                           False   
+1                    False                           False   
+2                    False                           False   
+3                    False                           False   
+4                    False                           False   
+
+   native_country_United-States  native_country_Vietnam  \
+0                          True                   False   
+1                          True                   False   
+2                          True                   False   
+3                          True                   False   
+4                          True                   False   
+
+   native_country_Yugoslavia  
+0                      False  
+1                      False  
+2                      False  
+3                      False  
+4                      False  
+
+[5 rows x 82 columns]
